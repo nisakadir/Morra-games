@@ -13,4 +13,4 @@ This project consists of
   - DeployerViews.js
   - PlayerViews.js
   - render.js
- TYou can use Visual Studio Code and you need to use this instruction ../reach run  to run the project.
+ You can use Visual Studio Code and you need to use this instruction ../reach run  to run the project.
